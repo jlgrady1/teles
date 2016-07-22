@@ -31,6 +31,7 @@ indexes. It can be used to quickly provide answers to geo-spacial queries
 that are otherwise difficult or tedious to embed within an application.
 
 It was originally written for targetting rewards at Kiip.
+For more information, please see the original github [repo](https://github.com/armon/teles).
 
 
 Features
